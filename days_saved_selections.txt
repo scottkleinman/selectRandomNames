@@ -1,3 +1,0 @@
-{'timestamp': '09/12/15 10:52:15', 'selected': ['Monday', 'Monday and Wednesday', 'Thursday', 'Tuesday']}
-{'timestamp': '09/12/15 10:52:17', 'selected': ['Tuesday and Thursday']}
-{'timestamp': '09/12/15 10:52:19', 'selected': ['Wednesday']}
