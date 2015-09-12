@@ -1,0 +1,11 @@
+##############################################
+##  Configuration for selectRandomNames.py  ##
+##############################################
+listA: ['Doe, Jane', 'Smith, John']
+listB: ['Smith, John','Doe, Jane']
+active_list: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Monday and Wednesday', 'Tuesday and Thursday']
+num_to_select: 1
+save_selections: False
+filter_saved: False
+save_filename: "days_saved_selections.txt"
+save_file_folder: ""
