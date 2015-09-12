@@ -1,6 +1,7 @@
 #selectRandomNames.py
 Author: Scott Kleinman
-Date:
+
+Date: September 12, 2015
 
 ## Introduction
 `selectRandomNames.py` is a short Python script I wrote to choose random names of students in my classes. It works with any list of items. For instance, I sometimes feed it the days of the week in order to select random days for quizzes. In principle, it's not really all that more effective than closing my eyes and pointing to items on a list, but it seems to be more fun and motivating. It definitely feels like less work.
@@ -30,4 +31,5 @@ This is the path to the folder that will contain the text file with the selectio
 Saving and filtering previous selections may reduce your name list to below the number you have set as the number of random choices. If this is the case, the script will warn you and return smaller numbers on repeated runs until all names in your list are exhausted.
 
 Last Update: September 12, 2015
+
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License: http://creativecommons.org/licenses/by-nc-sa/4.0/.
